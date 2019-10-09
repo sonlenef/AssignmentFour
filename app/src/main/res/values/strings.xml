@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">AssignmentFour</string>
+    <string name="friendsr">Friendsr</string>
+    <string name="text">Click on an eligible single user to learn and see if you are compatible for a date!</string>
+    <string name="content">content</string>
+    <string name="name">Name:</string>
+    <string name="lesonnnn">lesonnnn</string>
+    <string name="birthday">Birthday:</string>
+    <string name="myBirthday">08/09/1998</string>
+    <string name="rating">Rating:</string>
+    <string name="detailsactivity">DetailsActivity</string>
+</resources>
